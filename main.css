@@ -1,9 +1,3 @@
-body {
-  background:cyan;
-}
-p {
-  color: black;
-}
-h1 {
-  font-weight: bold;
-}
+body { background-color: cyan; }
+p { color: black; }
+h1 { font-weight: bold; }
