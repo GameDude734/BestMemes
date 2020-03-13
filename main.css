@@ -1,3 +1,10 @@
-body { background-color: cyan; }
-p { color: black; }
+body { background-color: cyan; font-family: arial; }
+p { color: black; font-family: arial; }
 h1 { font-weight: bold; }
+h2 { font-family: arial; }
+h3 { font-family: arial; }
+h4 { font-family: arial; }
+h5 { font-family: arial; }
+h6 { font-family: arial; }
+a { font-family: arial; }
+li { font-family: arial; }
